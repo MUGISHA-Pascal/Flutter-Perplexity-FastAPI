@@ -1,4 +1,4 @@
-import google.genai as genai
+import google.generativeai as genai
 from config import Settings
 
 settings = Settings()
